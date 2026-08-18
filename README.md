@@ -123,10 +123,10 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-![sem.create](./ex05img/sems1.png
+![semcreate](./ex05img/sem.s1.png)
 
 $ ipcs
-![sem.create](./ex05img/ex05.s2.png)
+![semcreate](./ex05img/sem.s2.png)
 
 
 
