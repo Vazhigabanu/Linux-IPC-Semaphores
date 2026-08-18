@@ -123,9 +123,12 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![semcreate](./ex05img/sem.s1.png)
 
 $ ipcs
+
+
 ![semcreate](./ex05img/sem.s2.png)
 
 
